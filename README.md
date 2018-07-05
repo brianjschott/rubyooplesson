@@ -1,8 +1,9 @@
 # Upperline Ruby Lesson
 
 ## Objective
-SWBAT organize data on an imagined social media account using object-oriented principles
-SWBAT identify why objects are a better data storage method than only variables or arrays
+- SWBAT organize data on an imagined social media account using object-oriented principles
+- SWBAT identify why objects are a better data storage method than only variables or arrays
+- SWBAT create instance variables and instances of a Post class
 
 
 -> Assumptions: Please assume that students have gone through basic Ruby methods, variables, data structures (arrays/hashes)
