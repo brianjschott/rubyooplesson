@@ -39,6 +39,12 @@ Go to your initialize method and add this instance variable in there. (Add in in
 
 Now, save and run your code. What do you notice happens? Who got an error? [Call on person who raised hand] What do you think I left out? Oh okay, it looks like I told the class that I want to be able to store this new data, but didn't actually give it a way to get that data into the object. So I need to edit the parameters for my initialize method. Now, when I call that initialize method, I'm making a new object. So every time I want to make a new object, I just have to call the initialize method by using the method name ***new***. 
 
+
+
+Let's go ahead and make a new blog post that utilizes the two instance variables.
+
 ## Independent Practice
 I want you to do the following:
-- Add in your own 
+- Add in your own instance variables to expand the Post class
+- Add in at least one more Post object and update the other posts' initialize methods to use the right number of instance variables
+- If you finish all of those, create an array to store the objects and a loop to call the print method
