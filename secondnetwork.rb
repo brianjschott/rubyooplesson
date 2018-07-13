@@ -6,7 +6,7 @@ postTitles = ["Mountains are amazing","Just got up to basecamp and boy are my ar
 postDates = ["June 2, 2018", "June 4, 2018", "June 4, 2018", "June 4, 2018", "June 4, 2018", "June 4, 2018", "June 4, 2018"]
 postTimes = ["10:00 PM", "7:00 AM", "9:31 AM", "1:40 PM", "2:00 PM", "7:10 PM", "11:33 PM"]
 postAuthor = ["joe", "joe", "joe", "joe", "joe", "joe", "joe"]
-postText = ["Booking a trip to Mt Washington!!!", "It was only a five minute walk but I\'m still beat!","I got this!", "I thought Timberlands were good for hiking??","Losing signal strength. WTF?","No way I spend 24 hours not posting!! XD XD", "Just stopped at McDonalds to refuel my body after so much work"]
+postText = ["It was only a five minute walk but I\'m still beat!","I got this!", "I thought Timberlands were good for hiking??","Losing signal strength. WTF?","No way I spend 24 hours not posting!! XD XD", "Just stopped at McDonalds to refuel my body after so much work"]
 
 
 
